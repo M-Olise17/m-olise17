@@ -15,4 +15,4 @@
     
 <p align="center">
 
-<img width="400" alt="55f55a4724397f594d7cf517d5b9b287" src="https://github.com/user-attachments/assets/12ba5436-3d42-4022-9f5a-dcd27a860d47" />
+<img width="200" alt="55f55a4724397f594d7cf517d5b9b287" src="https://github.com/user-attachments/assets/12ba5436-3d42-4022-9f5a-dcd27a860d47" />
