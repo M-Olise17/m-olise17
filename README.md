@@ -1,5 +1,4 @@
 <p align="center">
   <img width="600" alt="Musiala Olise" src="https://github.com/user-attachments/assets/9252b5d5-704f-448d-9581-afa4c2874549" />
-  
-  <p align="center">
-[[STRAW](brntfries.atabook.org) | [STRAW](https://brntfries.straw.page)
+   <p align="center">
+[Clickable Text Here](https://brntfries.straw.page/) | [STRAW](https://brntfries.straw.page)
