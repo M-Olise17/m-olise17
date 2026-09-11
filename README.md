@@ -6,3 +6,10 @@
   [STRAW](https://brntfries.straw.page/) | [ATA](https://brntfries.atabook.org/)
     
   </div>
+  
+  <div align="center">
+    
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=5D2222&width=435&lines=I+also+can't+say+Michael%2C;because+he'd+be+happy+then+!)](https://git.io/typing-svg)
+  
+  </div>
+    
